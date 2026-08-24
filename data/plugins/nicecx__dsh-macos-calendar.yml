@@ -1,0 +1,6 @@
+url: https://github.com/nicecx/dsh-macos-calendar
+name: nicecx/dsh-macos-calendar
+category: tools
+description:
+  en: 'Real macOS Calendar integration for agents: create, list, query and delete events in the Apple Calendar app via AppleScript; events sync to iCloud and appear on all devices.'
+  zh: 让 agent 直接读写 macOS 系统日历：创建、查询、删除真实日历事件（AppleScript），同步 iCloud，全设备可见。
